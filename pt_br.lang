@@ -1,0 +1,301 @@
+# Abilities
+##############################
+ability.Howl=Uivo
+ability.Climbing=Escalar
+ability.Leap=Salto
+ability.NightVision=Visão nortuna
+ability.Dash=Dash
+ability.Ram=Ram
+ability.Lift=Super Salto
+ability.Shred=Ranhão
+ability.Bite=Mordida
+ability.Paw=Pata
+ability.Armor=Armadura
+ability.ScentTracking=Faro Rastreador
+ability.Maim=Mutilar
+
+#Inclination
+ability.Tranquility=Tranquilidade
+ability.SilverBlood=Sangue Prateado
+ability.Humanity=Humanidade
+
+ability.Fear=Temor
+ability.Berserk=Fúria
+ability.Feral=Ferocidade
+
+ability.Ingenuity=Ingenuidade
+ability.Skillful=Destreza
+ability.Mastery=Maestria
+
+#Misc
+ability.Werewolf=Lobisomen
+ability.Wolf=Lobo
+ability.Beast=Besta
+
+# Abilities Description
+##############################
+ability.Howl.desc=Uive alto e convoque espíritos de lobos. Força e duração aumentam com o nível. Tempo de Recarga: 1 minuto.
+ability.Climbing.desc=Permite subir alguns blocos. A quantidade de possíveis blocos escaláveis aumenta com o nível.
+ability.Leap.desc=Permite saltar para a frente a uma velocidade incrível.
+ability.NightVision.desc=Dá acesso à visão noturna.
+ability.Ram.desc=Quando estiver correndo, as entidades com as quais você colidir seram repelidas e feridas.
+ability.Lift.desc=Permite pegar e transportar entidades. Não deve ter nada equipado nas patas para carregar-los.
+ability.Shred.desc=Ataques desarmado infligem sangramento.
+ability.Bite.desc=Morda um jogador avista e infecte-o com sua licantropia.
+ability.Paw.desc=Permite que um lobisomem segure itens nas patas. no entanto, A eficácia do item, é reduzida.
+ability.Armor.desc=Permite que um lobisomem use armadura.Mas, A eficácia e a movimentação da armadura são reduzidas.
+ability.ScentTracking.desc=Permite rastrear entidades pelo seu cheiro. A distância de rastreamento de entidades aumentam com o nível. Também é possível definir cores e entidades rastreadas no menu.
+ability.Maim.desc=Um ataque especial que fere a vítima. Inflingindo lentidão e fadiga.
+
+#Inclination
+ability.Tranquility.desc=Animais e aldeões não fogem mais de você.
+ability.SilverBlood.desc=Reduz fraqueza a prata e wolfsbane.
+ability.Humanity.desc=Remove os efeitos negativos da armadura e equipados itens enquanto transformado.
+
+ability.Fear.desc=Alguns mobs hostis terão muito medo de atacar. No entanto, eles ainda atacarão se forem provocados.
+ability.Berserk.desc=Matar consecutivamente aumentará temporariamente sua força por um curto período de tempo.O efeito aumenta a cada morte.
+ability.Feral.desc=Você abandonou sua humanidade. Tornando-se uma fera compulsiva. Atributos e fraquezas são aumentados, mesmo na forma humana. Armaduras e Ferramentas são inúteis para você transformado, e menos eficazes mesmo na forma humana.
+
+ability.Ingenuity.desc=Aumenta o ganho de exp.
+ability.Skillful.desc=Aumenta pontos de atributo.
+ability.Mastery.desc=Aumenta pontos de atributo e habilidade.
+
+#Misc
+ability.Werewolf.desc=Concede a capacidade de se transformar em um lobisomem. Maior velocidade de movimento, altura do salto, dano de ataque desarmado e reduz o dano recebido.
+ability.Wolf.desc=Concede a capacidade de se transformar em um lobo.
+ability.Beast.desc=Obtenha acesso a uma forma maior e mais forte.
+
+#Attribute
+##############################
+attribute.Strength=Força
+attribute.Rend=Rasgo
+attribute.Protection=Proteção
+attribute.Movement=Velocidade de Movimento
+attribute.Jump=Altura do salto
+attribute.Fall=Distância de queda
+attribute.Knockback=Repulsão
+attribute.KnockResist=Resistência a Repulsão
+attribute.Hunger=Fome
+attribute.Regeneration=Regeneração
+attribute.Clarity=Clareza
+attribute.Exhilarating=Entusiasmo
+attribute.Resistance=Resistência
+attribute.Dexterity=Destreza
+
+attribute.Strength.desc=Aumenta o dano quando estiver desarmado em 15 %%.
+attribute.Rend.desc=Ignora 2 pontos de armadura.
+attribute.Protection.desc=Reduz o dano recebido em 8 %% enquanto não estiver usando armadura.
+attribute.Movement.desc=Aumenta a velocidade dos movimentos.
+attribute.Jump.desc=Aumenta a altura do salto.
+attribute.Fall.desc=Aumenta a distância capaz de cair sem tomar dano.
+attribute.Knockback.desc=Aumenta a repulsão com de ataques enquanto desarmado.
+attribute.KnockResist.desc=Aumenta a resistência a repulsão.
+attribute.Hunger.desc=Reduz a quantidade de fome enquanto transformado.
+attribute.Regeneration.desc=Regenere lentamente a sua saúde, cada ponto aumenta a velocidade de regeneração.
+attribute.Clarity.desc=Reduz os efeitos negativos ao sair de transformações.
+attribute.Exhilarating.desc=Dá um impulso temporário à transformação. Maior saturação e fornece efeitos benéficos de poções. O Entusiasmo só pode ser ativado uma vez a cada 5 minutos.
+attribute.Resistance.desc=Cada ponto concede imunidade a um efeito de status. Imunidade 1: Fraqueza. 2: Veneno. 3: Lentidão. 4: Fadiga. 5: Murchar.
+attribute.Dexterity.desc=Aumenta a eficácia com as patas.
+
+#Skills
+##############################
+skills.reset.ability=Resetar pontos de habilidade
+skills.reset.attribute=Resetar pontos de atributo
+skills.reset.inclination=Resetar inclinação
+skills.reset.inclination2=O progresso será resetado ao ponto antes de te-lo escolhido. 
+skills.reset.desc=Custo 10 níveis.
+skills.assign=Atribuir
+skills.close=Fechar
+skills.confirm=Confirmar
+skills.emptyPaw=Pata vazia
+skills.emptyPaw.desc=Mantém um slot da hotbar do atribuído vazia.
+
+skills.broke=Erro. Bom trabalho quebrando ela peludinho.
+
+# Keys
+##############################
+keys.howlingmoon.category=Howling Moon
+keys.howlingmoon.menu=Menu
+keys.howlingmoon.transform=Transformar
+keys.howlingmoon.ability1=Habilidade 1
+keys.howlingmoon.ability2=Habilidade 2
+
+# Commands
+##############################
+commands.werewolf.success=%s é agora um Lobisomem
+commands.werewolf.success.false=%s não é mais um Lobisomem
+commands.werewolf.usage=/werewolf <true|false>
+
+commands.werelevel.failure=Não é possível definir o nível do jogador que não é lobisomem.
+commands.werelevel.failure.levels=Não é possível definir níveis de lobisomen de abaixo de 1.
+commands.werelevel.success=Nível de lobisomen Definido como %s para %d
+commands.werelevel.usage=/werelevel <quantidade> or /werelevels <quantidade>
+
+commands.wereprogress.failure=Não é possível definir um progresso abaixo de 0.
+commands.wereprogress.failure.non=Não é possível definir o progresso de um jogador que não é lobisomem.
+commands.wereprogress.success=Progresso-de-lobisomem Definido como (%d, %s) para %s
+commands.wereprogress.usage=/wereprogress <0-8> [-1, 0 , 1] ou /werequests <0-8> [-1, 0, 1]
+
+# Config
+##############################
+werewolf.config.setLevelCap.name=Definir limite de nível
+werewolf.config.spawnSilverOre.name=Gerar Minério de Prata
+werewolf.config.wolfSleep.name=Lobisomens Dormiram
+werewolf.config.dimID.name=ID da Dimensão
+werewolf.config.setLevelCap=Defina o limite de nível para lobisomens. Eu recomendo não aumentá-lo além do padrão.
+werewolf.config.wolfSleep=Configure se lobisomens têm permissão para dormir enquanto são transformados.
+werewolf.config.spawnSilverOre=Gerar minério de prata no mundo.
+
+werewolf.config.dimID=Defina o ID da dimensão do mod.
+
+# Items
+##############################
+tile.howlingmoon.ore_silver.name=Minério de Prata
+tile.howlingmoon.wolfsbane.name=Wolfsbane
+tile.howlingmoon.hunter_banner.name=Bandeira do Caçador
+item.howlingmoon.ingot_silver.name=Barra de Prata
+item.howlingmoon.silver_sword.name=Espada de Prata
+item.howlingmoon.hsilver_sword.name=Espada de Prata Dura
+item.howlingmoon.moonstone.name=Pérola da Lua
+item.howlingmoon.potion_wolfsbane.name=Poção de Wolfsbane 
+
+# Enchantments
+##############################
+enchantment.Wolfsbane=Wolfsbane
+
+# Potions
+##############################
+effect.howlingmoon:bleeding=Sangramento
+effect.howlingmoon:wolfsbane=Wolfsbane
+effect.howlingmoon:silverpoison=Veneno de prata
+
+# Creative Tab
+##############################
+itemGroup.howlingmoon=Howling Moon Rising
+
+# Entities
+##############################
+entity.Werewolf.name=Lobisomen
+entity.Hunter.name=Caçador
+entity.NPCWerewolf.name=Aldeão Lobisomen
+entity.NPCHunter.name=Aldeão Caçador
+
+# Messages
+##############################
+werewolf.message.infected=Você está infectado com licantropia!
+werewolf.message.fullmoon=Uma lua cheia nasce! A sua fera interior toma conta de você!
+werewolf.message.night=A sua fera interior toma conta de você!
+werewolf.message.exitmoon=A fera sua interior está inquieta!
+werewolf.message.calmingcure=Seu corpo está calmo, a infecção licantropia desapareceu.
+werewolf.message.cure=O wolfsbane domina a sua fera, você não é mais um lobisomem!
+werewolf.message.cure.infection=O wolfsbane cura sua infecção!
+werewolf.message.immune=Wolfsbane percorre suas veias, você é imune à infecção licantropia!
+werewolf.message.antiimmune=Wolfsbane é expulso do seu corpo, você é suscetível à infecção licantropia!
+werewolf.message.noeffect=A poção não tem efeito.
+werewolf.message.sleep=A sua fera interior está inquieta!
+werewolf.message.wake=Você sonhou que estava caçando em um lugar distante.
+werewolf.message.wake2=Você se lembra vagamente de ouvir sussurros enquanto dorme.
+
+werewolf.message.wolfform=O seu lobo interior desperta! Você ganha a capacidade de mudar para um lobo.
+werewolf.message.beastform=A sua besta interior desperta! Você ganha a capacidade de mudar para uma forma mais poderosa.
+werewolf.message.unlock=Outra parte interna do lobo desperta!
+
+# Guide Messages
+##############################
+guide.message.welcome0=Bem-vindo filhote. Venha conversar comigo. Você tem muito que aprender.
+guide.message.welcome1=Use sua forma de lobo para alcançar a próxima área e continuar seu treinamento.
+guide.message.welcome2=Olá novamente filhote. Eu tenho mais para te ensinar.
+guide.message.welcome3=Use sua visão noturna para andar pelo labirinto.
+guide.message.welcome4=Seu treinamento está quase completo. Fale comigo.
+guide.message.welcome5=Teste sua forma animal e atravesse o túnel. Cuidado com as paredes.
+guide.message.welcome6=É isso aí. Fale comigo para o seu desafio final.
+guide.message.welcome7=Faça isso até o fim para provar sua maestria.
+guide.message.level1=Agora você tem a capacidade de mudar para um lobo. Use-a para alcançar a próxima área e nossos irmãos ensinarão mais.
+guide.message.level2=Agora você pode convocar membros da alcateia uivando.
+guide.message.level3=Agora você pode ver claramente na escuridão. Use-a para ajudá-lo a chegar ao fim. Você terá que fazer uma escolha.
+guide.message.level4=Você deve escolher que tipo de lobo você quer ser. Fale com um de nós três para mudar. Depois de sair, será definido.
+guide.message.level5=Agora você tem a capacidade de mudar para uma forma animal. Isso pode ajudá-lo a correr pelo túnel. Mas tome cuidado para não tocar nas paredes, pois você é maior nessa forma!
+guide.message.level6=Agora você pode espalhar nosso dom para outras pessoas.
+guide.message.level7=Use tudo o que você precisa fazer até o fim e prove sua supremacia. Se você estiver carregando itens valiosos, sugiro pular fora e armazená-los antes de tentar.
+guide.message.level8=Você concluiu seu treinamento e provou a sua maestria para nós. Se você optou por controlar a besta ou adotá-la, estamos orgulhosos de ter nosso dom em você.
+guide.message.inclination=está inclinado agora como %s.
+
+# Werewolf Menu
+##############################
+werewolf.menu.werewolf=Lobisomen
+werewolf.menu.abilities=Habilidades
+werewolf.menu.texture=Textura
+werewolf.menu.model=Modelo
+werewolf.menu.texture.gray=Cinza
+werewolf.menu.texture.white=Branca
+werewolf.menu.texture.black=Preta
+werewolf.menu.texture.red=Vermelha
+werewolf.menu.texture.timber=Madeira
+werewolf.menu.texture.custom=Personalizada 
+werewolf.menu.model.wolf=Lobo
+werewolf.menu.model.beast=Besta
+werewolf.menu.status=Status
+werewolf.menu.infection0=Normal
+werewolf.menu.infection1=Infectado
+werewolf.menu.infectionN=Imune
+werewolf.menu.off=Off
+werewolf.menu.on=On
+werewolf.menu.skills=Técnicas
+
+werewolf.menu.title=Inclinação
+werewolf.menu.title.calm1=Calmo
+werewolf.menu.title.calm2=Protetor
+werewolf.menu.title.calm3=Guardião
+werewolf.menu.title.savage1=Selvagem
+werewolf.menu.title.savage2=Besta
+werewolf.menu.title.savage3=Predador
+werewolf.menu.title.neutral=Neutro
+
+werewolf.menu.paw=Mantenha a pata vazia
+werewolf.menu.pawSlot=Digite o número do slot (0 - 8) para mantê-lo vazio. Qualquer outro valor desativará a Habilidade
+werewolf.menu.slot=Slot
+werewolf.menu.leap.forward=Avança
+werewolf.menu.leap.aim=Alvo
+
+werewolf.menu.ability=Habilidade
+werewolf.menu.toggle.name=Alternar Habilidade
+werewolf.menu.toggle.none=Nenhum
+werewolf.menu.toggle.click=Clique para mudar
+werewolf.menu.activate.name=Ativar
+werewolf.menu.sneakJump=Leap: Esgueirar-se + Saltar
+werewolf.menu.sprintJump=Leap: Correr + Saltar
+werewolf.menu.sprintClimb=Climb: Correr
+werewolf.menu.sprintClimb.no=Não subir enquanto segurar onde corre
+werewolf.menu.sprintClimb.climb=Subir apenas enquanto segurar onde corre
+werewolf.menu.sprintClimb.stop=Mantenha a posição ao subir
+werewolf.menu.sprintClimb.clampClimb=Prenda na parede ao subir
+werewolf.menu.sprintClimb.clamp=Fixar na parede
+werewolf.menu.sprintClimb.clamp2=Avança: Cima, Recuar: Baixo
+werewolf.menu.leap.climb=Ao subir apenas
+werewolf.menu.leap.leap=Enquanto estiver apenas no chão
+werewolf.menu.ram.key=Enquanto mantém pressionada a tecla de correr
+
+werewolf.scent.Color=Cor do Faro Rastreador 
+werewolf.scent.settings=Configurações de cor
+werewolf.scent.mobs=Monstros
+werewolf.scent.animals=Animais
+werewolf.scent.creatures=Criaturas
+werewolf.scent.others=Outros
+werewolf.scent.edit=Editar
+werewolf.scent.clear=Apagar
+werewolf.scent.ignore=Ignorar
+werewolf.scent.cancel=Cancelar
+werewolf.scent.disabled=Desabilitado
+werewolf.scent.specific=Específico
+
+# Tame Menu
+##############################
+
+# Guide Book
+##############################
+
+# Lore Book
+##############################
+
+# Dialog
+##############################
