@@ -2,11 +2,11 @@
 ##############################
 ability.Howl=Uivo
 ability.Climbing=Escalar
-ability.Leap=Salto
+ability.Leap=Disparo
 ability.NightVision=Visão nortuna
 ability.Dash=Dash
 ability.Ram=Ram
-ability.Lift=Super Salto
+ability.Lift=Erguer
 ability.Shred=Ranhão
 ability.Bite=Mordida
 ability.Paw=Pata
@@ -216,7 +216,7 @@ guide.message.level3=Agora você pode ver claramente na escuridão. Use-a para a
 guide.message.level4=Você deve escolher que tipo de lobo você quer ser. Fale com um de nós três para mudar. Depois de sair, será definido.
 guide.message.level5=Agora você tem a capacidade de mudar para uma forma animal. Isso pode ajudá-lo a correr pelo túnel. Mas tome cuidado para não tocar nas paredes, pois você é maior nessa forma!
 guide.message.level6=Agora você pode espalhar nosso dom para outras pessoas.
-guide.message.level7=Use tudo o que você precisa fazer até o fim e prove sua supremacia. Se você estiver carregando itens valiosos, sugiro pular fora e armazená-los antes de tentar.
+guide.message.level7=Use tudo o que você precisa fazer até o fim e prove sua maestria. Se você estiver carregando itens valiosos, sugiro pular fora e armazená-los antes de tentar.
 guide.message.level8=Você concluiu seu treinamento e provou a sua maestria para nós. Se você optou por controlar a besta ou adotá-la, estamos orgulhosos de ter nosso dom em você.
 guide.message.inclination=está inclinado agora como %s.
 
